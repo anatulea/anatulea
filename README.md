@@ -6,3 +6,6 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... on LinkedIn https://www.linkedin.com/in/anatulea/
 - 😄 Pronouns: ...She/Her
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anatulea)](https://github.com/anuraghazra/github-readme-stats)
