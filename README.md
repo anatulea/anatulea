@@ -8,8 +8,11 @@
 - 😄 Pronouns: ...She/Her
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anatulea&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anatulea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anatulea&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatulea&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
