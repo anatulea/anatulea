@@ -42,7 +42,7 @@ Complete Python Bootcamp: From Zero to Hero in Python [<img src='https://cdn.jsd
 
 AWS Fundamentals [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/c8a919fced58e3a57525f2b617e816ee)
 
-AWS Fundamentals: Going Cloud-Native [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/2f3b75dd771b234889dd9a302e5142d7/)
+AWS Fundamentals: Going Cloud-Native [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/2f3b75dd771b234889dd9a302e5142d7)
 
 AWS Fundamentals: Addressing Security Risk [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/3c5838482a549d39f3158e9ac5fbdd73)
 
