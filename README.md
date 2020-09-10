@@ -40,16 +40,15 @@ Improved my React, Redux, Hooks and Context Code with Test Driven Development [<
 Complete Python Bootcamp: From Zero to Hero in Python [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](https://www.udemy.com/course/complete-python-bootcamp/)
 
 
-AWS Fundamentals [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/0b0729a037d24dddd5cee1965fb6e291/)
+AWS Fundamentals [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/c8a919fced58e3a57525f2b617e816ee)
 
-AWS Fundamentals: Going Cloud-Native [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/1bab166758cf120d89d6516862b9b2c2/)
+AWS Fundamentals: Going Cloud-Native [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/2f3b75dd771b234889dd9a302e5142d7/)
 
-AWS Fundamentals: Addressing Security Risk [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/491ad53ebae941574c5795c7dfe125d3/)
+AWS Fundamentals: Addressing Security Risk [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/3c5838482a549d39f3158e9ac5fbdd73)
 
-AWS Fundamentals: Migrating to the Cloud [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/bbb5db903747b76380e14f4efbc7e853/)
+AWS Fundamentals: Migrating to the Cloud [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/f8d945e76ef8dfc7213f7b088a969131)
 
-AWS Fundamentals: Building Serverless Applications [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/3bf2c16d1e1677e5b0af55861a654d8e/)
-
+AWS Fundamentals: Building Serverless Applications [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/267d16e0ae0510d9af4149a7e6fa0c0d)
 
 
 
