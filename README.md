@@ -37,6 +37,8 @@ Improved my React, Redux, Hooks and Context Code with Test Driven Development [<
 
 Complete Python Bootcamp: From Zero to Hero in Python [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](http://ude.my/UC-0cafdaa1-8670-4c08-aef7-a76c4f56402f)
 
+React Testing with Jest and Enzyme [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](https://www.udemy.com/certificate/UC-adf83765-0da2-495a-9e97-0d64bb03d250/)
+
 
 AWS Fundamentals [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='github' height='20'>](https://coursera.org/share/c8a919fced58e3a57525f2b617e816ee)
 
