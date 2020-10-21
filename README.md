@@ -62,6 +62,6 @@ AWS Fundamentals: Building Serverless Applications [<img src='https://cdn.jsdeli
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anatulea&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
  
- ![Profile views](https://gpvc.arturio.dev/misskellymore)  
+ ![Profile views](https://gpvc.arturio.dev/anatulea)  
 
 
