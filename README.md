@@ -31,9 +31,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/anatulea)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/anatulea//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/tulea_ana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](http://anatulea.com/)   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anatulea&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 **Additional course certifications**
 
 Full-Stack Web Development | Node, SQL, React, & More  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](http://ude.my/UC-9fe32c48-d0b9-4929-aa91-510881de3a0e)
@@ -67,6 +64,10 @@ AWS Fundamentals: Building Serverless Applications [<img src='https://cdn.jsdeli
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anatulea&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=anatulea&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+ 
  
  ![Profile views](https://gpvc.arturio.dev/anatulea)  
 
