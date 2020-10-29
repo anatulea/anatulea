@@ -38,6 +38,8 @@
 
 Full-Stack Web Development | Node, SQL, React, & More  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](http://ude.my/UC-9fe32c48-d0b9-4929-aa91-510881de3a0e)
 
+React JS and Redux Bootcamp - Master React Web Development  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](https://www.udemy.com/certificate/UC-2c7dfb9f-8ed3-498a-8c99-e421a6171957/)
+
 React Testing with Jest and Enzyme.
 Improved my React, Redux, Hooks and Context Code with Test Driven Development [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](https://www.udemy.com/certificate/UC-adf83765-0da2-495a-9e97-0d64bb03d250/)
 
