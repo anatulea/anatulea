@@ -33,6 +33,8 @@
 
 **Additional course certifications**
 
+Scalable Web Applications with Python, Flask, and SQLAlchemy [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](https://www.udemy.com/certificate/UC-cc8d13ff-cc20-46b1-a856-d100a6312f2f/)
+
 Python and Flask Bootcamp: Create Websites using Flask! [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](https://www.udemy.com/certificate/UC-503d490e-2b6e-48dd-8e21-3fb4b36d4e3e/)
 
 Python for Data Structures, Algorithms, and Interviews!  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='github' height='20'>](https://www.udemy.com/certificate/UC-37e5eee9-4845-4e2a-becf-6622d9282f8b/)
