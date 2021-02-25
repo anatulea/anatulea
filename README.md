@@ -8,7 +8,7 @@
 - 📫 How to reach me: ... on LinkedIn https://www.linkedin.com/in/anatulea/
 - 😄 Pronouns: ...She/Her 
 
-**Languages and Tools:**  
+## Languages and Tools: 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code> 
@@ -28,11 +28,11 @@
 
 
 
-**Ways to find me:**
+## Ways to find me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/anatulea)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/anatulea//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/tulea_ana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](http://anatulea.com/)   
 
-**Additional course certifications**
+## Additional course certifications
 
 Keeping Up With the Javascripts: ES6 [<img src='https://static.skillshare.com/uploads/users/7653916/user-image-large.png?1590681105' alt='pirple_logo' height='20'>](https://www.pirple.com/certificates/bndy5cettm)
 
