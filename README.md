@@ -34,37 +34,37 @@
 
 ## Additional course certifications
 
-Keeping Up With the Javascripts: ES6 [<img src='https://static.skillshare.com/uploads/users/7653916/user-image-large.png?1590681105' alt='pirple_logo' height='20'>](https://www.pirple.com/certificates/bndy5cettm)
+Keeping Up With the **Javascripts: ES6** [<img src='https://static.skillshare.com/uploads/users/7653916/user-image-large.png?1590681105' alt='pirple_logo' height='20'>](https://www.pirple.com/certificates/bndy5cettm)
 
-Node, SQL, & PostgreSQL - Mastering Backend Web Development [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-1907861b-84fe-4d85-a156-efd94349dc5e/)
+**Node, SQL, & PostgreSQL** - Mastering Backend Web Development [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-1907861b-84fe-4d85-a156-efd94349dc5e/)
 
-Scalable Web Applications with Python, Flask, and SQLAlchemy [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-cc8d13ff-cc20-46b1-a856-d100a6312f2f/)
+Scalable Web Applications with **Python, Flask, and SQLAlchemy** [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-cc8d13ff-cc20-46b1-a856-d100a6312f2f/)
 
-Python and Flask Bootcamp: Create Websites using Flask! [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-503d490e-2b6e-48dd-8e21-3fb4b36d4e3e/)
+**Python and Flask** Bootcamp: Create Websites using Flask! [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-503d490e-2b6e-48dd-8e21-3fb4b36d4e3e/)
 
-Python for Data Structures, Algorithms, and Interviews!  [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-37e5eee9-4845-4e2a-becf-6622d9282f8b/)
+**Python for Data Structures, Algorithms**, and Interviews!  [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-37e5eee9-4845-4e2a-becf-6622d9282f8b/)
 
-Full-Stack Web Development | Node, SQL, React, & More  [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](http://ude.my/UC-9fe32c48-d0b9-4929-aa91-510881de3a0e)
+Full-Stack Web Development | **Node, SQL, React**, & More  [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](http://ude.my/UC-9fe32c48-d0b9-4929-aa91-510881de3a0e)
 
-React JS and Redux Bootcamp - Master React Web Development  [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-2c7dfb9f-8ed3-498a-8c99-e421a6171957/)
+**React JS and Redux** Bootcamp - Master React Web Development  [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-2c7dfb9f-8ed3-498a-8c99-e421a6171957/)
 
-React Testing with Jest and Enzyme.
+React Testing with **Jest and Enzyme**.
 Improved my React, Redux, Hooks and Context Code with Test Driven Development [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-adf83765-0da2-495a-9e97-0d64bb03d250/)
 
-Complete Python Bootcamp: From Zero to Hero in Python [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](http://ude.my/UC-0cafdaa1-8670-4c08-aef7-a76c4f56402f)
+Complete **Python** Bootcamp: From Zero to Hero in Python [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](http://ude.my/UC-0cafdaa1-8670-4c08-aef7-a76c4f56402f)
 
-Data Structures + Algorithms [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-163c77ff-6cc4-44f4-89d9-4e9f38af6ac8/)
+**Data Structures + Algorithms** [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-163c77ff-6cc4-44f4-89d9-4e9f38af6ac8/)
 
 
 AWS Fundamentals [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://coursera.org/share/c8a919fced58e3a57525f2b617e816ee)
 
-AWS Fundamentals: Going Cloud-Native [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://coursera.org/share/2f3b75dd771b234889dd9a302e5142d7)
+**AWS** Fundamentals: **Going Cloud-Native** [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://coursera.org/share/2f3b75dd771b234889dd9a302e5142d7)
 
-AWS Fundamentals: Addressing Security Risk [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://coursera.org/share/3c5838482a549d39f3158e9ac5fbdd73)
+**AWS** Fundamentals: **Addressing Security Risk** [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://coursera.org/share/3c5838482a549d39f3158e9ac5fbdd73)
 
-AWS Fundamentals: Migrating to the Cloud [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://coursera.org/share/f8d945e76ef8dfc7213f7b088a969131)
+**AWS** Fundamentals: **Migrating to the Cloud** [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://coursera.org/share/f8d945e76ef8dfc7213f7b088a969131)
 
-AWS Fundamentals: Building Serverless Applications [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://coursera.org/share/267d16e0ae0510d9af4149a7e6fa0c0d)
+**AWS** Fundamentals: **Building Serverless Applications** [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://coursera.org/share/267d16e0ae0510d9af4149a7e6fa0c0d)
 
 
 
