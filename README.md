@@ -34,6 +34,8 @@
 
 ## Additional course certifications
 
+The Complete **SQL** Bootcamp 2021: Go from Zero to Hero [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-1300045d-059c-4cde-b810-cf781ce58656/)
+
 Keeping Up With the **Javascripts: ES6** [<img src='https://static.skillshare.com/uploads/users/7653916/user-image-large.png?1590681105' alt='pirple_logo' height='20'>](https://www.pirple.com/certificates/bndy5cettm)
 
 **Node, SQL, & PostgreSQL** - Mastering Backend Web Development [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-1907861b-84fe-4d85-a156-efd94349dc5e/)
