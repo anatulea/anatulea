@@ -36,7 +36,9 @@
 
 **Full-Stack Web Development** + Technical Interviewing [<img src='https://miro.medium.com/max/300/1*pkKgFsaYQu1LZLoiiqpoEA.png' alt='lambda' height='50'>](https://www.youracclaim.com/badges/295e729f-b786-421c-a4aa-55d510634dba/public_url)
 
-**Data Science** and **Machine Learning** with **R** [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-74d56165-7cfd-4332-9a16-e58b8e1bf380/)
+**Advanced React** and **Redux** [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-74d56165-7cfd-4332-9a16-e58b8e1bf380/)
+
+**Data Science** and **Machine Learning** with **R** [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-7987bbdd-6407-4f2b-b669-f8f76659826b/)
 
 The Complete **SQL** Bootcamp 2021: Go from Zero to Hero [<img src='https://cdn.worldvectorlogo.com/logos/udemy-1.svg' alt='udemy' height='20'>](https://www.udemy.com/certificate/UC-1300045d-059c-4cde-b810-cf781ce58656/)
 
