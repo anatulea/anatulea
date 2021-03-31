@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently studying ... full stack web development
 - 🌱 I’m currently learning ... Python3 and Computer Science
-- 🤩 Project that I'm proud of ...  https://www.findur.city
 - 🤓 Last project completed ... https://mygameoflife.netlify.app
 - 😎 One of my Python- Flask apps... https://social-puppy-blog.herokuapp.com/
 - 📫 How to reach me: ... on LinkedIn https://www.linkedin.com/in/anatulea/
