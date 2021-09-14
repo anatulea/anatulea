@@ -27,7 +27,7 @@
 <code><img height="30" src="https://devopedia.org/images/article/45/8328.1526292163.svg"></code>
 <code> <img height="30" src="https://www.php.net/images/logos/new-php-logo.png"></code>
 <code> <img height="30" src="https://miro.medium.com/max/800/0*g3ns8QALNBBH7CBA."></code>
-<code> <img height="30" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg."></code>
+<code> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
 
