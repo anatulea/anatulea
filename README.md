@@ -1,13 +1,4 @@
 ### Hi there 👋
-
-- 🔭 I’m currently studying ... React Native
-- 🌱 I’m currently learning ... Python3 and Computer Science
-- Project that i'm proud of ... Find Your City https://findyourcity.netlify.app/
-- 🤓 Last project completed ... https://apps.apple.com/us/app/soy-zombie/id1217052215
-- 😎 One of my Python- Flask apps... https://social-puppy-blog.herokuapp.com/
-- 📫 How to reach me: ... on LinkedIn https://www.linkedin.com/in/anatulea/
-- 😄 Pronouns: ...She/Her 
-
 ## Languages and Tools: 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
